@@ -33,7 +33,11 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>com.mavenproject10.project10.App</mainClass>
+                <mainClass>com.project10.project10.App</mainClass>
               </manifest>
             </archive>
+          </configuration>
+      </plugin>
+    </plugins>
+  </build>
 </project>
